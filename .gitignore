@@ -1,0 +1,35 @@
+# Node.js
+
+node_modules/
+
+serviceAccountKey.json
+
+npm-debug.log*
+
+.env
+
+
+# Python
+
+__pycache__/
+
+*.pyc
+
+venv/
+
+.env
+
+
+# MacOS
+
+.DS_Store
+
+
+# IDE and Editor files
+
+.vscode/
+
+.idea/
+
+*.log
+
