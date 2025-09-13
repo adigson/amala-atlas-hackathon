@@ -8,10 +8,10 @@ const admin = require("firebase-admin");
 let serviceAccount;
 
 if (process.env.FIREBASE_SERVICE_ACCOUNT) {
-  // Prod: parse from environment variable
+  console.log("Using FIREBASE_SERVICE_ACCOUNT from env");
   serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
 } else {
-  // Local: load from file
+  console.log("Using local serviceAccountKey.json file");
   serviceAccount = require("../serviceAccountKey.json");
 }
 
