@@ -29,11 +29,9 @@ Text-to-Speech: A text-to-speech function welcomes users to the app, adding an a
 
 Figma Project Links
 
-You can view and comment on the full ui/ux design, including all screens, components, and prototypes, at the following links:
+You can view and comment on the full ui/ux design, including all screens, components, and prototypes, at the following link:
 
 [Amala Atlas - Full Design File (Mobile)](https://www.figma.com/proto/2K0SX6aPZ7QZJCH3D0wl04/Amala-app-ui?node-id=159-878&p=f&t=SX9Qxo0grj088fdJ-1&scaling=scale-down&content-scaling=fixed&page-id=159%3A466&starting-point-node-id=159%3A878)
-
-[Amala Atlas - Full Design File (Web)](https://www.figma.com/proto/2K0SX6aPZ7QZJCH3D0wl04/Amala-app-ui?node-id=251-4250&p=f&t=QuMohH5UBbqAmpO3-0&scaling=min-zoom&content-scaling=fixed&page-id=251%3A3031&starting-point-node-id=251%3A4250)
 
 
 Technologies Used
