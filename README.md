@@ -1,5 +1,5 @@
 # amala-atlas-hackathon
-A collaboration on the project - "Amala Atlas" - we named it 'AMA' tentatively along with my team - The Amala Cartographer 
+A collaboration on the project - "Amala Atlas" - we named it 'AMALAMI' along with my team - The Amala Cartographer 
 The Amala Cartographers: Amala Atlas
 Project Vision
 Amala Atlas is a crowdsourced, global map dedicated to discovering and verifying authentic Amala spots. Our mission is to make finding this beloved Nigerian delicacy easy for everyone, everywhere. We're building a community-driven platform that will use agentic intelligence to automatically discover potential locations from the web and a user-friendly map to allow our community to add and verify these spots.
