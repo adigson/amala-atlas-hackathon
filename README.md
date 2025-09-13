@@ -55,39 +55,3 @@ Admin Dashboard: Create a separate admin interface for managing, approving, or r
 License
 This project is licensed under the MIT License.
 
-
-
-The Team: The Amala Cartographers
-
-Role
-
-Name
-
-Bio
-
-System Programmer/ Project Manager
-
-Musibau
-
-Focused on creating a robust and scalable system architecture, ensuring all components—frontend, backend, and agentic intelligence—work together seamlessly.
-
-Backend Specialist
-
-AbuZayd (Bobo)
-
-Responsible for building the server-side logic and managing the Firestore database, handling data submission, retrieval, and verification flows.
-
-Python/App Expert
-
-Mr. Basit
-
-Leading the development of the autonomous discovery agent and our mobile app's functionality.
-
-UI/UX Designer
-
-Adebukola Ummu Sofiyyah
-
-Crafting the intuitive and beautiful user interface for our map and user-contribution forms.
-
-Quick Start (Coming Soon!)
-This section will contain instructions for how to run the project locally.
