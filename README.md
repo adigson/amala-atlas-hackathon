@@ -27,6 +27,15 @@ Conversational Assistant: A chat assistant helps users navigate the app and prov
 
 Text-to-Speech: A text-to-speech function welcomes users to the app, adding an auditory layer to the user experience.
 
+Figma Project Links
+
+You can view and comment on the full ui/ux design, including all screens, components, and prototypes, at the following links:
+
+Amala Atlas - Full Design File (Mobile) [https://www.figma.com/proto/2K0SX6aPZ7QZJCH3D0wl04/Amala-app-ui?node-id=159-878&p=f&t=SX9Qxo0grj088fdJ-1&scaling=scale-down&content-scaling=fixed&page-id=159%3A466&starting-point-node-id=159%3A878]
+
+Amala Atlas - Full Design File (Web) [https://www.figma.com/proto/2K0SX6aPZ7QZJCH3D0wl04/Amala-app-ui?node-id=251-4250&p=f&t=QuMohH5UBbqAmpO3-0&scaling=min-zoom&content-scaling=fixed&page-id=251%3A3031&starting-point-node-id=251%3A4250]
+
+
 Technologies Used
 
 Frontend: HTML5, CSS3 (Tailwind CSS), JavaScript (ES6+)
