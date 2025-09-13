@@ -7,6 +7,9 @@ Project Description
 
 Àmàlàmi is a community-driven web application designed to help users discover and share the best Àmàlà spots in their city. Built as a single-page application, the platform serves as a digital map and review guide, empowering Àmàlà lovers to crowdsource locations and insights. Our MVP focuses on a seamless user experience, from authentication to content creation, leveraging the power of modern web technologies and generative AI.
 
+
+[Live Demo URL:](https://drive.google.com/drive/folders/1z3uBjqabpIcJZdSnYtCPZ6xknzYFY7Mp?usp=sharing)
+
 Core Features (MVP)
 
 User Authentication: Users can access the app and contribute as either an Authenticated User (signed in) or a Guest User (anonymous login).
@@ -27,7 +30,9 @@ Conversational Assistant: A chat assistant helps users navigate the app and prov
 
 Text-to-Speech: A text-to-speech function welcomes users to the app, adding an auditory layer to the user experience.
 
-Figma Project Links
+UI/UX Design
+
+Figma Project Link
 
 You can view and comment on the full ui/ux design, including all screens, components, and prototypes, at the following link:
 
@@ -41,6 +46,12 @@ Frontend: HTML5, CSS3 (Tailwind CSS), JavaScript (ES6+)
 Backend as a Service: Firebase (Authentication and Firestore Database)
 
 Generative AI: Google Gemini API
+
+System Architecture
+
+This simple diagram shows how the main components of our application are connected.
+
+graph TD subgraph "Frontend (Single-Page App)" A[User Interface] end subgraph "Backend as a Service" B[Firebase Authentication] C[Firestore Database] end subgraph "Generative AI" D[Google Gemini API] end subgraph "The User" E[User] end E -- Interacts with --> A A -- Authenticates --> B A -- Reads & Writes Data --> C A -- Calls API to generate/analyze content --> D %% Notes style A fill:#f9f9f9,stroke:#333,stroke-width:2px style B fill:#F6BF00,stroke:#333,stroke-width:2px style C fill:#4285F4,stroke:#333,stroke-width:2px style D fill:#EA4335,stroke:#333,stroke-width:2px style E fill:#f9f9f9,stroke:#333,stroke-width:2px 
 
 How to Run
 
