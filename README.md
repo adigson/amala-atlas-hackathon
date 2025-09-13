@@ -8,7 +8,7 @@ Project Description
 Àmàlàmi is a community-driven web application designed to help users discover and share the best Àmàlà spots in their city. Built as a single-page application, the platform serves as a digital map and review guide, empowering Àmàlà lovers to crowdsource locations and insights. Our MVP focuses on a seamless user experience, from authentication to content creation, leveraging the power of modern web technologies and generative AI.
 
 
-[Live Demo URL:](https://drive.google.com/drive/folders/1z3uBjqabpIcJZdSnYtCPZ6xknzYFY7Mp?usp=sharing)
+[Live Demo URL:]([https://drive.google.com/drive/folders/1z3uBjqabpIcJZdSnYtCPZ6xknzYFY7Mp?usp=sharing](https://amala-cartographers.netlify.app/))
 
 Core Features (MVP)
 
